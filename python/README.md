@@ -4,3 +4,6 @@ IPv6: ? Not detected
 
 
 Why the IPv6 is not detected ?
+
+
+performance kpi 120 Mbps
